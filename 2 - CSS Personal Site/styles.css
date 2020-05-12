@@ -1,0 +1,132 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h1 {
+  font-size: 5.63rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Amatic SC', cursive;
+  color:#66BFBF
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: 'EB Garamond', serif;
+  font-weight: normal;
+  padding-bottom: 10px;
+  color:#66BFBF
+
+}
+
+h3 {
+  font-family: 'EB Garamond', serif;
+  color:#11999E
+}
+
+p{
+  line-height: 2;
+}
+.footerinfo{
+  color: white;
+  text-align: center;
+}
+hr{
+  border: dotted #3560ab 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a{
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6
+}
+
+.Top-container{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+  line-height: 2;
+}
+
+.middle-container{
+  margin: 100px 0;
+}
+
+.skill-row{
+   width: 50%;
+   margin: 100px auto 100px;
+   text-align: left;
+}
+
+.bottom-container{
+  background-color:#119994;
+  padding: 50px 0 20px;
+}
+
+.contactmessage{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+.profilepic{
+  border-radius: 50%;
+}
+
+.webdev{
+  width: 23%;
+  float: left;
+  margin-right: 30px;
+}
+.python{
+  width: 22%;
+  float: right;
+  margin-left: 30px;
+}
+
+.introd{
+  width: 30%;
+  margin: auto;
+}
+
+.myButton {
+	box-shadow: 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:10px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:1px #283966;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
