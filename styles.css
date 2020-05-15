@@ -1,0 +1,137 @@
+ body{
+  font-family: "Montserrat"
+}
+
+ #title  {
+   font-family: "Montserrat";
+   color: white;
+   background-color: #ff4c68;
+ }
+
+ .container-fluid {
+   padding: 3% 15%;
+ }
+
+h1  {
+  font-family:"Montserrat-Black";
+  font-weight: bold;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-size: 2rem;
+  font-weight: bolder;
+  line-height: 1.5;
+}
+
+h3{
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+p{
+  color: #8f8f8f
+}
+/* Navigation Bar */
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-light";
+}
+
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+
+.iphone-tindog{
+  width: 70%;
+  transform: rotate(25deg);
+}
+
+/* features Section */
+
+#features {
+  padding: 7% 15%;
+}
+
+.feature-box{
+  text-align: center;
+  padding: 5%
+}
+
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover{
+  color:#ff4c68;
+}
+
+/* testimonial section */
+
+#testimonials {
+  text-align: center;
+  background-color: #ef8772;
+  color:#fff;
+}
+
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+#press{
+  background-color: #ef8772;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+/* <div class="row">
+    <div class="col" style="background-color:red;  border: 1px solid;"> col </div>
+    <div class="col" style="background-color:red;  border: 1px solid;"> col </div>
+</div>
+<div class="row">
+    <div class="col-6" style="background-color:green; border: 1px solid"> col-6 </div>
+    <div class="col-6" style="background-color:green; border: 1px solid"> col-6 </div>
+</div>
+<div class="row">
+    <div class="col-lg-3 col-md-4 col-sm-6" style="background-color:yellow; border: 1px solid"> col-lg-3 col-md-4 sm-6 </div>
+    <div class="col-lg-3 col-md-4 col-sm-6" style="background-color:yellow; border: 1px solid"> col-lg-3 col-md-4 sm-6 </div>
+    <div class="col-lg-3 col-md-4 col-sm-6" style="background-color:yellow; border: 1px solid"> col-lg-3 col-md-4 sm-6 </div>
+    <div class="col-lg-3 col-md-4 col-sm-6" style="background-color:yellow; border: 1px solid"> col-lg-3 col-md-4 sm-6 </div>
+</div>
+<div class="row">
+    <div class="col-lg-2 col-md-3 " style="background-color:gray; border: 1px solid"> col-lg-2 col-md-3 </div>
+    <div class="col-lg-2 col-md-3 " style="background-color:gray; border: 1px solid"> col-lg-2 col-md-3 </div>
+    <div class="col-lg-2 col-md-3 " style="background-color:gray; border: 1px solid"> col-lg-2 col-md-3 </div>
+    <div class="col-lg-2 col-md-3 " style="background-color:gray; border: 1px solid"> col-lg-2 col-md-3 </div>
+    <div class="col-lg-2 col-md-3 " style="background-color:gray; border: 1px solid"> col-lg-2 col-md-3 </div>
+    <div class="col-lg-2 col-md-3 " style="background-color:gray; border: 1px solid"> col-lg-2 col-md-3 </div>
+</div> */
